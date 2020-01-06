@@ -1,0 +1,32 @@
+{
+    "status":0,
+    "message":{
+        "token":"test",
+        "userInfo": {
+            "ADCD": "330281",
+            "ADMIN_DIV_CODE": "6E38F2DA-3E63-4FC9-B17F-8516E74485C9",
+            "ADMIN_DIV_NAME": "余姚市",
+            "ALLOW_SERVICE": null,
+            "IS_ENABLE": "1",
+            "ORDER_ID": 1,
+            "PERSON_ID": "5E833752CEF5420880C29B22EC1DBC17",
+            "PHOTO_RELATIVE_URL": null,
+            "PHOTO_URL": null,
+            "POST": null,
+            "ROLE_CODE": "7ABD8E29AAB04C0BBDD5A20D5DA6215B",
+            "ROLE_LEVEL": 0,
+            "ROLE_NAME": "管理员",
+            "SEX": "1",
+            "SIGNATURE_RELATIVE_URL": null,
+            "SIGNATURE_URL": null,
+            "SUPPLEMENT_CODE": "C5CE808E01D54B62B1B5EB3DE22C3F24",
+            "TELEPHONE_NUMBER": null,
+            "TRUE_NAME": "余姚市管理员",
+            "UNIT_CODE": "E23DE72D-7D74-42B0-AE38-094A5CCEC9AB",
+            "UNIT_NAME": "余姚市水利局",
+            "USER_CODE": "AACC79C8206E439F843A375D39F40460",
+            "USER_NAME": "yys",
+            "USER_TYPE": 9      
+          }
+    }
+}

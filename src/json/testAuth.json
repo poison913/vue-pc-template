@@ -1,0 +1,58 @@
+{
+    "status":0,
+    "message":{
+        "auth":["A0000_1"],
+        "menu":[{
+            "AUTH_CODE": 1,
+            "AUTH_NAME": "浏览",
+            "IMAGE_URL": "shouye",
+            "MODULE_ID": "B191C9D1-8D6C-412C-B4C0-8190AE39CE02",
+            "MODULE_NAME": "首页",
+            "MODULE_URL": "/supHomePage",
+            "ORDER_ID": 1,
+            "PARENT_MODULE_CODE": null,
+            "POWER_CODE": "A0000",
+            "ROLE_CODE": "7ABD8E29AAB04C0BBDD5A20D5DA6215B", 
+            "subs":[]
+          },{
+            "AUTH_CODE": 1,
+            "AUTH_NAME": "浏览",
+            "IMAGE_URL": "jiankongjiance",
+            "MODULE_ID": "58B1C406-5B0B-4AAA-AE57-2207CC36EA3F",
+            "MODULE_NAME": "一级菜单",
+            "MODULE_URL": "",
+            "ORDER_ID": 2,
+            "PARENT_MODULE_CODE": "",
+            "POWER_CODE": "B0000",
+            "ROLE_CODE": "7ABD8E29AAB04C0BBDD5A20D5DA6215B", 
+            "subs":[
+                {
+                    "AUTH_CODE": 1,
+                    "AUTH_NAME": "浏览",
+                    "IMAGE_URL": "",
+                    "MODULE_ID": "2EE96E1B-1AB9-403B-B58F-D7BC6D1D98C5",
+                    "MODULE_NAME": "子菜单一",
+                    "MODULE_URL": "/monitor/supWaterMonitor",
+                    "ORDER_ID": 1,
+                    "PARENT_MODULE_CODE": "58B1C406-5B0B-4AAA-AE57-2207CC36EA3F",
+                    "POWER_CODE": "B1001",
+                    "ROLE_CODE": "7ABD8E29AAB04C0BBDD5A20D5DA6215B", 
+                    "subs":[]
+                  },
+                  {
+                    "AUTH_CODE": 1,
+                    "AUTH_NAME": "浏览",
+                    "IMAGE_URL": "",
+                    "MODULE_ID":  "06E4A220-6E4E-45DE-A26B-7F0C19A664C1",
+                    "MODULE_NAME": "子菜单二",
+                    "MODULE_URL": "/monitor/supVideoMonitor",
+                    "ORDER_ID": 2,
+                    "PARENT_MODULE_CODE": "58B1C406-5B0B-4AAA-AE57-2207CC36EA3F",
+                    "POWER_CODE": "B1002",
+                    "ROLE_CODE": "7ABD8E29AAB04C0BBDD5A20D5DA6215B", 
+                    "subs":[]
+                  }
+            ]
+          }]
+    }
+}

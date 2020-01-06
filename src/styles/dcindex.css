@@ -1,0 +1,120 @@
+/**
+ * 公司：定川信息技术有限公司
+ * 部门：软件开发研究所前端组
+ * 作者： 陈凯歌 创建时间： 2019/1/18.
+ * 描述：vue-admin 公共样式，此样式表只写入一些公共的基础样式，具体的业务页面样式写在各自的vue文件中，以scope作用域约束
+ */
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+  border-radius: 9px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #dddddd;
+  min-height: 28px;
+  border-radius: 9px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #bbb;
+}
+.m-t-10 {
+  margin-top: 10px;
+}
+.m-t-5 {
+  margin-top: 5px;
+}
+.warning {
+  color: #E6A23C;
+}
+.success {
+  color: #67C23A;
+}
+.info {
+  color: #909399;
+}
+.blue {
+  color: #409EFF;
+}
+.danger {
+  color: #F56C6C;
+}
+.white {
+  color: #fff;
+}
+.with_bac {
+  color: #333;
+}
+.with_bac th {
+  background: #f5f5f5;
+}
+.pull-left {
+  float: left;
+}
+.pull-right {
+  float: right;
+}
+.m-l-10 {
+  margin-left: 10px;
+}
+.m-l-5 {
+  margin-left: 5px;
+}
+.m-r-10 {
+  margin-right: 10px;
+}
+.m-r-5 {
+  margin-right: 5px;
+}
+.DCDialog .el-dialog__body {
+  padding: 15px 20px;
+}
+.h5-less-margin {
+  margin: 0 5px;
+}
+.overtext {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.tooltip-prag {
+  width: 140px;
+  line-height: 26px;
+  word-wrap: break-word;
+  word-break: break-all;
+  white-space: pre-wrap;
+}
+.el-dialog__body {
+  padding-top: 0 !important;
+}
+.el-dialog__header {
+  background: #4d6db8;
+  margin-bottom: 10px;
+}
+.main-container .el-dialog__header {
+  padding: 10px 20px;
+  color: #fff;
+}
+.main-container .el-dialog__header * {
+  color: #fff;
+}
+.main-container .el-dialog__headerbtn {
+  top: 10px;
+  color: #fff;
+}
+.main-container .el-dialog__headerbtn i {
+  color: #fff;
+}
+.web-header .el-dialog__header {
+  padding: 10px 20px;
+  color: #fff;
+}
+.web-header .el-dialog__header * {
+  color: #fff;
+}
+.web-header .el-dialog__headerbtn {
+  top: 10px;
+  color: #fff;
+}
+.web-header .el-dialog__headerbtn i {
+  color: #fff;
+}

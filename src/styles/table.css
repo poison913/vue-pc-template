@@ -1,0 +1,23 @@
+.over-hidden {
+    overflow: hidden;
+  }
+  .table-container {
+    /* margin-top: 10px; */
+  }
+  .input-text {
+    width: 275px;
+    float: left;
+    font-size: 13px;
+  }
+  .input-title {
+    display: inline;
+  }
+  h4 {
+    margin-top: 0px;
+  }
+  .block {
+    float: right;
+  }
+  .button {
+    margin-left: 5px;
+  }
