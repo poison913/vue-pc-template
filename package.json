@@ -23,7 +23,7 @@
     "echarts": "^4.2.0-rc.2",
     "file-saver": "^2.0.0",
     "font-awesome": "^4.7.0",
-    "highcharts": "^7.0.2",
+    "highcharts": "^9.0.0",
     "js-cookie": "2.2.0",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
